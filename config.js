@@ -4,7 +4,7 @@ if (fs.existsSync(".env"))
 
 module.exports = {
     MODE: process.env.MODE,
-    SESSION_ID: process.env.SESSION_ID,
+    SESSION_ID: process.env.Gifted~rT64P8d8AiHg,
     TIME_ZONE: process.env.TIME_ZONE,
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS,
     AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS,
